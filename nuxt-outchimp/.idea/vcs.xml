@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/outchimp-view" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/outchimp-view/outchimp-view" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/outchimp/outchimp-view" vcs="Git" />
+  </component>
+</project>
